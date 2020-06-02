@@ -1,10 +1,6 @@
 # Create-a-Video-TimeStamp
 TimeStamp extracted using Audio and Face
 
-It's my Capstone Design Project.
-
-by ChonNam National Univ.
-
 ## 오디오 분류 순서
 ***
 1. Video파일 -> Audio파일 변환 ( 전체적으로 ) ( 완료 )
