@@ -3,4 +3,4 @@ TimeStamp extracted using Audio and Face
 
 It's my Capstone Design Project.
 
-by ChunNam Univ.
+by ChonNam National Univ.
