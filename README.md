@@ -2,7 +2,6 @@
 TimeStamp extracted using Audio and Face
 
 ## 오디오 분류 순서
-***
 1. Video파일 -> Audio파일 변환 ( 전체적으로 ) ( 완료 )
 > ffmpeg_extarct_subclip_audio 함수 사용
 1. 5초 단위로 불러옴 ( 완료 )
