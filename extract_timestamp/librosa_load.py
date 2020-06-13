@@ -3,6 +3,7 @@ import librosa
 def librosa_load(filename, offset = 0.0, duration = 5.0, sr=22050):
     """
     원하는 길이만큼 잘라서 가져오기 위한 함수
+    return : 데이터, 시작점
         
     filename : 가져올 파일 이름
     offset : 시작 지점(sec)
