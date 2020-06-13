@@ -15,10 +15,10 @@ def librosa_load(filename, offset = 0.0, duration = 5.0, sr=22050):
     
         if X.size / sr < duration:
             print("Arrive at the end of file")
-            return False, offset
+            return -1, -1
         else:
             return X, offset
     except:
         print("Offset is bigger than Length")
-        return False, offset
+        return -1, -1
     
